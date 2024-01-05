@@ -9,11 +9,17 @@ This information is derived from inspections of restaurants and other food estab
 ## Data Preparation and Cleaning (Libraries used in the project)
 
 **NumPy and Pandas:** Utilized for core data manipulation and numerical computing in Python.
+
 **Matplotlib and Plotly:** used for data exploration and to enhance the interactivity of visualizations.
+
 **Fuzzywuzzy:** consolidated text data by matching and correcting similar strings.
+
 **Folium: ** Used for geospatial data visualization and interactive mapping
+
 **Regular Expressions (re):** searching and parsing complex string patterns
-**Scikit-learn:** used for building ML models
+
+**Scikit-learn:** used for building ML models.
+
 **Facebook's "Prophet":** used for forecasting future hotel inspection results.
 
 ## Descriptive Analytics Findings :
@@ -23,9 +29,6 @@ This information is derived from inspections of restaurants and other food estab
 ●	Analyzed inspection results by type, revealing that routine canvass checks show a 50.7% pass rate and complaints lead to a higher failure rate
 ●	Mapped the trend of the five most common violation codes over several years, identifying code 34 as the most recurrent issue in food establishments.
 
-<img width="541" alt="image" src="https://github.com/PHANINDRA25/Hotel-inspection-result-prediction/assets/136892334/c2cbb3c4-f8b7-4448-954e-1dbd4d08207c">
-
-<img width="448" alt="image" src="https://github.com/PHANINDRA25/Hotel-inspection-result-prediction/assets/136892334/07e235e3-184c-4cbf-9989-d16905fba0a3">
 
 
 ## Predictive Modelling :
