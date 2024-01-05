@@ -33,7 +33,6 @@ This information is derived from inspections of restaurants and other food estab
 ●	Mapped the trend of the five most common violation codes over several years, identifying code 34 as the most recurrent issue in food establishments.
 
 
-
 ## Predictive Modelling :
 ●	Achieved a 78% accuracy in predicting hotel inspection outcomes by employing Decision Tree, Random Forest, and Logistic Regression.
 
@@ -43,3 +42,9 @@ This information is derived from inspections of restaurants and other food estab
 
 
 ![image](https://github.com/PHANINDRA25/Hotel-inspection-result-prediction/assets/136892334/ea8d92dd-9e00-44d8-9cb1-ba35cdfc7c7d)
+
+## Conclusion :
+●	The number of violations, citations an inspection received, and the inspection type seem to be affecting the inspection outcome. 
+
+●	**Hypothesis:** The attributes of food establishments impact the outcomes of their inspections - **True**
+
