@@ -22,7 +22,9 @@ This information is derived from inspections of restaurants and other food estab
 ●	Illustrated inspection result disparities across restaurants, grocery stores, and schools, revealing the highest compliance in schools with a 67.5% pass rate.
 ●	Analyzed inspection results by type, revealing that routine canvass checks show a 50.7% pass rate and complaints lead to a higher failure rate
 ●	Mapped the trend of the five most common violation codes over several years, identifying code 34 as the most recurrent issue in food establishments.
+
 <img width="541" alt="image" src="https://github.com/PHANINDRA25/Hotel-inspection-result-prediction/assets/136892334/c2cbb3c4-f8b7-4448-954e-1dbd4d08207c">
+
 <img width="448" alt="image" src="https://github.com/PHANINDRA25/Hotel-inspection-result-prediction/assets/136892334/07e235e3-184c-4cbf-9989-d16905fba0a3">
 
 
