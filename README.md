@@ -3,6 +3,7 @@
 This project delves into the Chicago Food Inspection dataset to explore the relationship between the attributes of food establishments and the outcomes of their inspections.
 The hypothesis is that the type of facility, its location, and the nature of the inspection significantly influence the inspection outcomes.
 
+(Disclaimer - Original dataset is not published due to huge size. The dataset can be found at https://www.kaggle.com/datasets/tjkyner/chicago-food-inspections )
 ## Introduction of Dataset
 This information is derived from inspections of restaurants and other food establishments in Chicago from January 1, 2010 to the present. Inspections are performed by staff from the Chicago Department of Public Health’s Food Protection Program. Inspections are done using a standardized procedure.
 
